@@ -2,16 +2,11 @@
 .DS_Store
 ._*
 
-# Compser files
+# Composer files
 /vendor/
 
-# local test environment
-/test/
-docker-build.sh
-docker-bash.sh
-docker-run.sh
-docker-rm.sh
-release.sh
+# NPM
+/node_modules/
 
 # Vs Code
 /.vscode/

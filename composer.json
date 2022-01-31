@@ -1,25 +1,17 @@
 {
-    "name": "steampixel/simple-php-router",
-    "description": "This is a simple and small PHP router that can handel the whole url routing for your project.",
-    "type": "library",
-    "license": "MIT",
+    "name": "biokraft/art-portfolio",
+    "description": "This is supposed to be a simple art portfolio webpage",
     "authors": [
         {
-            "name": "Christoph Stitz",
-            "email": "info@steampixel.de",
-            "homepage": "https://steampixel.de/"
-        },
-        {
-            "name": "Maximilian Götz",
-            "email": "contact@maxbits.net",
-            "homepage": "https://www.maxbits.net/"
+            "name": "Seán Baufeld",
+            "email": "dickborder@gmail.com"
         }
     ],
     "minimum-stability": "dev",
     "require": {},
     "autoload": {
       "psr-0": {
-          "Steampixel": "src/"
+          "biokraft": "src/"
       }
   }
 }
